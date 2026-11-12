@@ -14,3 +14,9 @@ for (let per1 in ordered1){
     console.log(per1,ordered1[per1]);
     
 }
+console.log(ordered1);
+console.log(ordered1);
+
+console.log(ordered1);
+
+
