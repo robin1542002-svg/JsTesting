@@ -33,4 +33,12 @@ myFunction1()
     var num1 =40;
 }
 console.log(num);
+ 
+const hum1 = {
+    name : "kk",
+    age : 23,
+
+}
+
+console.log(hum1.name);
 
