@@ -1,5 +1,5 @@
 try {
-    const num =34;
+    let num =34;
     if(num < 50){
         console.log( "your number is fine" );
         num ++;
@@ -19,3 +19,18 @@ try {
     console.log("errir here");
     
 }
+
+
+
+
+function myFunction1 (){
+     var num = 10;
+}
+myFunction1()
+// console.log(num);
+{
+    num = 10;
+    var num1 =40;
+}
+console.log(num);
+
